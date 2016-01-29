@@ -1,0 +1,2 @@
+# ossetup
+openshift setup tools
